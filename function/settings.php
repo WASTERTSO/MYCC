@@ -1,6 +1,6 @@
 <?php
 /*==========> INFO 
- * CODE     : TSO SHIV
+ * CODE     : BY TSO SHIV
  * SCRIPT   : CC CHECKER
  * VERSION  : V4
  * TELEGRAM : t.me/imnotshiv
