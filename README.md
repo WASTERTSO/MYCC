@@ -9,7 +9,7 @@
 ## Install on android (Termux)
     $ pkg install git -y
     $ pkg install php -y
-    $ git clone https://github.com/ZLaxtert/cc-checkerV4
+    $ git clone https://github.com/Wastertso/MYCC
     $ cd cc-checkerV4
     $ php cli.php
 
