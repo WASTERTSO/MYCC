@@ -10,7 +10,7 @@
     $ pkg install git -y
     $ pkg install php -y
     $ git clone https://github.com/Wastertso/MYCC
-    $ cd cc-checkerV4
+    $ cd MYCC
     $ php cli.php
 
 ## Screenshot
