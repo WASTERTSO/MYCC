@@ -66,9 +66,9 @@ function banner(){
     $data = array(
         
        1 => "
-".RandColl()." ┋▄▄▄▄▄▄▄▄▄┋  ▃▃▃▃▃▃  
-".RandColl()."      ┋█┋      ▋
-".RandColl()."      ┋█┋      ▋
+".RandColl()." ┋▄▄▄▄▄▄▄▄▄┋
+".RandColl()."      ┋█┋      
+".RandColl()."      ┋█┋      
 ".RandColl()."      ┋█┋      
 ".RandColl()."      ┋█┋
 ".RandColl()."      ┋█┋  ",
