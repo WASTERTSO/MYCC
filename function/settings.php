@@ -1,10 +1,10 @@
 <?php
 /*==========> INFO 
- * CODE     : BY ZLAXTERT
+ * CODE     : TSO SHIV
  * SCRIPT   : CC CHECKER
  * VERSION  : V4
- * TELEGRAM : t.me/zlaxtert
- * BY       : DARKXCODE
+ * TELEGRAM : t.me/imnotshiv
+ * BY       : TEAM_TSO
  */
 $settings = array(
     "mode_proxy" => "off", // on or off
